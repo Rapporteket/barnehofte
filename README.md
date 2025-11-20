@@ -8,7 +8,7 @@
 [![Doc](https://img.shields.io/badge/Doc--grey.svg)](https://rapporteket.github.io/barnehofte/)
 <!-- badges: end -->
   
-# Rapporteket korsbånd <img src="man/figures/logo.svg" align="right" height="150" />
+# Rapporteket Barnehofte <img src="man/figures/logo.svg" align="right" height="150" />
 
 ## Bygg docker image lokalt
 
