@@ -1,7 +1,7 @@
 Package: barnehofte
 Type: Package
 Title: Template to be used for Making New Registries at Rapportekt
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person(given = "Eva",
            family = "Dybvik",
