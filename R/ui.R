@@ -5,7 +5,7 @@
 
 app_ui <- function() {
 
-  regTitle <- "barnehofte"
+  regTitle <- "Nasjonalt Barnehofteregister"
 
   shiny::tagList(
     shiny::navbarPage(
